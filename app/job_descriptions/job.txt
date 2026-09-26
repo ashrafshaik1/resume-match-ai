@@ -1,0 +1,12 @@
+Python Developer
+
+We are looking for a Python Developer with experience in Python, SQL, Git, JavaScript, AWS, Docker and HTML.
+
+Required Skills:
+Python
+SQL
+Git
+JavaScript
+AWS
+Docker
+HTML
